@@ -1,0 +1,13 @@
+@import '../../styles.scss';
+
+.navbar{
+  background-color: $lightColor;
+}
+
+.navbar .nav-item {
+  color: $fontColor;
+  .nav-link{
+    color: $fontColor;
+
+  }
+}
